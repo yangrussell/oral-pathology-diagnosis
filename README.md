@@ -37,6 +37,6 @@ The expert system asks questions regarding the following topics:
 * Whether the person's tooth color has recently changed
 * Whether the person's sores are puffy
 
-This is just for information purposes, and shouldn't be used to actually diagnose any diseases. Always see a dentist!
+This is just for information purposes, and shouldn't be used to actually diagnose any diseases. Always see a dentist! Please let me know if any of the medical/dental information here is incorrect, and I will fix it as soon as possible.
 
 
