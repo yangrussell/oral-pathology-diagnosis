@@ -1,4 +1,4 @@
-# oral-health
+# oral-pathology-diagnosis
 Diagnoses common oral and maxillofacial pathologies using backward chaining
 
 # About
