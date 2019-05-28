@@ -39,4 +39,10 @@ The expert system asks questions regarding the following topics:
 
 This is just for information purposes, and shouldn't be used to actually diagnose any diseases. Always see a dentist! Please let me know if any of the medical/dental information here is incorrect, and I will fix it as soon as possible.
 
+# Usage
+1. Install JESS: Java Expert System Shell
+2. Navigate to the correct directory and run JESS
+3. Batch in the oralhealth.clp file from within the JESS folder
+4. The program will start immediately
+5. To restart, enter (reset) (run)
 
