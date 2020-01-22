@@ -1,5 +1,5 @@
 # oral-pathology-diagnosis
-Diagnoses common oral and maxillofacial pathologies using backward chaining
+A backward-chained expert system in JESS that diagnoses common oral and maxillofacial pathologies
 
 # About
 This is an expert system that uses backward chaining to identify common oral pathologies. The diseases that the system is capable of diagnosing are the following:
